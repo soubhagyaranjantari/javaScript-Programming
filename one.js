@@ -9,5 +9,5 @@ function name(params) {
       }
     }
     
-    export default one
+    // export default one
 }
